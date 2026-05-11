@@ -97,6 +97,6 @@ Program executed successfully!
 ```
 
 ## Author
-AtrinYassari - 40313244341222
+AtrinYassari
 
 
